@@ -7,3 +7,15 @@
 //
 
 import Foundation
+
+public class SampleClass {
+    
+    public init() {
+        
+    }
+    
+    public func hoge() -> String {
+        
+        return "hoge"
+    }
+}
